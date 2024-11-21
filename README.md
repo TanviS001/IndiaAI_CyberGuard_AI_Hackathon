@@ -1,5 +1,6 @@
 # IndiaAI_CyberGuard_AI_Hackathon
 - Project Name : Cyber Justice
+- Team : Cyber Justice (individual entry)
 
 ## Stage 1 Submission:
 
