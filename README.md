@@ -1,6 +1,5 @@
 # IndiaAI_CyberGuard_AI_Hackathon
 - Project Name : Cyber Justice
-- Team Members: Tanvi Suryawanshi (Individual Entry)
 
 ## Stage 1 Submission:
 
